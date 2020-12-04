@@ -1,0 +1,95 @@
+.header{
+	min-height: 100px;
+	background-color: gray;
+	color:black;
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.header1{
+	min-height: 100px;
+	background-color: #F5F5DC;
+	color:black;
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.header2{
+	min-height: 100px;
+	background-color: #A57164;
+	color:black;
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+.wrapper{
+	overflow: hidden;
+
+
+}
+.container{
+	overflow: hidden;
+}
+.double{
+	min-height: 150px;
+	background-color: #7CB9E8;
+	width:49.7%;
+	
+	float: left;
+	border: 2px solid black;
+}
+
+.single{
+	min-height: 250px;
+	background-color: #B2BEB5;
+	width:33%;
+	
+	float: left;
+	border: 2px solid black;
+
+}
+.tetra{
+	min-height: 300px;
+	background-color: #9966CC;
+	width:24.7%;
+	
+	float: left;
+	border: 2px solid black;
+
+}
+/*.red{
+	background-color: red;
+}
+.yellow{
+	background-color: yellow;
+}
+.blue{
+	background-color: blue;
+}*/
+.footer1{
+min-height: 100px;
+text-align: center;
+font-size: 30px;
+background-color: #A2A2D0;
+font-family: arial;
+
+}
+.footer2{
+min-height: 100px;
+text-align: center;
+font-size: 30px;
+background-color: #D891EF;
+font-family: arial;
+
+}
+.footer3{
+min-height: 100px;
+text-align: center;
+font-size: 30px;
+background-color: #2A52BE;
+font-family: arial;
+
+}
